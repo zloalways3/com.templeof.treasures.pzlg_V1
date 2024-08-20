@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{8F304283-EB2B-4FD8-8547-5532ACDA31B0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TempleU.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TempleA.cs" Line="104" Column="37" />
+      <File FileName="Assets/Scripts/TempleB.cs" Line="26" Column="19" />
+      <File FileName="Assets/Scripts/TempleU.cs" Line="96" Column="3" />
+      <File FileName="Assets/Scripts/TempleTi.cs" Line="32" Column="28" />
+      <File FileName="Assets/Scripts/TempleM.cs" Line="23" Column="47" />
+      <File FileName="Assets/Scripts/TempleTd.cs" Line="10" Column="30" />
+      <File FileName="Assets/Scripts/TempleM1.cs" Line="14" Column="4" />
+      <File FileName="Assets/Scripts/TempleTta.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/TempleR.cs" Line="9" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="com.templeof.treasures.pzlg" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="TempleU.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dd08e3aa-e1eb-4260-8e92-4f2e1c9c0737" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
